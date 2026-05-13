@@ -1,1 +1,1 @@
-Hello there! I am a phyiscs major data enthuiast and I'm trying to develop my data skills further. Currently you can only check my data analysis repositorys but hopefully my CERN machine learning repository will be public as well.
+Hello there! I am a physics major data enthuiast and I'm trying to develop my data skills further. Currently you can only check my data analysis repositorys but hopefully my CERN machine learning repository will be public as well.

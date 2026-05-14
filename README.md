@@ -1,1 +1,1 @@
-Hello there! I am a physics major data enthuiast and I'm trying to develop my data skills further. Currently you can only check my data analysis repositorys but hopefully my CERN machine learning repository will be public as well.
+Hello there! I am a physics major who loves statistics and neuroscience. You can only view my retrieval systems study for now but hopefully, I will make my CMS and computational neuroscience projects visible soon!
